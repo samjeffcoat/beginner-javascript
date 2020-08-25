@@ -16,8 +16,8 @@ function sayHiTo(firstName) {
   return `Hello ${firstName}`;
 }
 
-// const greeting = sayHiTo('Wes');
-// console.log(greeting);
+const greeting = sayHiTo('Wes');
+console.log(greeting);
 
 function doctorize(name) {
   return `Dr. ${name}`;
